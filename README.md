@@ -24,13 +24,4 @@ In this portfolio, you'll find a showcase of my skills through various projects 
 - **Tools**: Docker, Kubernetes, Git, etc.
 - **Databases**: MongoDB, SQL, etc.
 
-## Contact Me
-
-Feel free to connect with me for any inquiries or project collaborations. You can reach me at:
-
-- **Email**: [muhamadnizar.work@gmail.com](mailto:muhamadnizar.work@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/emnizaar)
-- **Twitter**: [@jokiicodev2](https://twitter.com/jokiicodev2)
-
-
 Thank you for visiting my portfolio!
